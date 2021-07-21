@@ -8,7 +8,7 @@
 - Go to Setup > Installed Packages > State Codes, then click **Configure**
 - Review the included ISO state codes then click **Start Batch**
 
-<img src="https://raw.githubusercontent.com/wiki/rmartinIM/statecodes/images/states-configure.png" />
+<img src="https://raw.githubusercontent.com/wiki/mattandneil/statecodes/images/states-configure.png" />
 
 # Verify
 
