@@ -1,4 +1,4 @@
-<a href="https://githubsfdeploy.herokuapp.com?owner=mattandneil&amp;repo=statecodes&amp;ref=master">
+<a href="https://githubsfdeploy.herokuapp.com?owner=rmartinIM&amp;repo=statecodes&amp;ref=master">
 <img align="right" alt="Deploy to Salesforce" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
 </a> This tool initializes all ISO states by screen scraping the forms in setup.<br />(State and Country picklist values cannot be created any other way)
 
@@ -8,7 +8,7 @@
 - Go to Setup > Installed Packages > State Codes, then click **Configure**
 - Review the included ISO state codes then click **Start Batch**
 
-<img src="https://raw.githubusercontent.com/wiki/mattandneil/statecodes/images/states-configure.png" />
+<img src="https://raw.githubusercontent.com/wiki/rmartinIM/statecodes/images/states-configure.png" />
 
 # Verify
 
